@@ -1,0 +1,188 @@
+Id:1Name:Australia
+Id:2Name:Austria
+Id:3Name:Canada
+Id:4Name:China
+Id:5Name:Denmark
+Id:6Name:Finland
+Id:7Name:France
+Id:8Name:Germany
+Id:9Name:Iceland
+Id:10Name:Ireland
+Id:11Name:Italy
+Id:12Name:Netherlands
+Id:13Name:Norway
+Id:14Name:Russia
+Id:15Name:Sweden
+Id:16Name:Switzerland
+Id:17Name:United Kingdom
+Id:18Name:US
+Id:19Name:Spain
+Id:20Name:Mexico
+Id:21Name:Chile
+Id:22Name:Brazil
+Id:23Name:Peru
+Id:24Name:Colombia
+Id:25Name:Japan
+Id:26Name:Ukraine
+Id:27Name:India
+Id:28Name:Pakistan
+Id:29Name:Afghanistan
+Id:30Name:Albania
+Id:31Name:Algeria
+Id:32Name:Andorra
+Id:33Name:Angola
+Id:34Name:Antigua and Barbuda
+Id:35Name:Argentina
+Id:36Name:Armenia
+Id:37Name:Azerbaijan
+Id:38Name:Bahamas
+Id:39Name:Bahrain
+Id:40Name:Bangladesh
+Id:41Name:Barbados
+Id:42Name:Belarus
+Id:43Name:Belgium
+Id:44Name:Belize
+Id:45Name:Benin
+Id:46Name:Bhutan
+Id:47Name:Bolivia
+Id:48Name:Bosnia and Herzegovina
+Id:49Name:Botswana
+Id:50Name:Brunei
+Id:51Name:Bulgaria
+Id:52Name:Burkina Faso
+Id:53Name:Burma
+Id:54Name:Burundi
+Id:55Name:Cabo Verde
+Id:56Name:Cambodia
+Id:57Name:Cameroon
+Id:58Name:Central African Republic
+Id:59Name:Chad
+Id:60Name:Comoros
+Id:61Name:Congo (Brazzaville)
+Id:62Name:Congo (Kinshasa)
+Id:63Name:Costa Rica
+Id:64Name:Cote d'Ivoire
+Id:65Name:Croatia
+Id:66Name:Cuba
+Id:67Name:Cyprus
+Id:68Name:Czechia
+Id:69Name:Diamond Princess
+Id:70Name:Djibouti
+Id:71Name:Dominica
+Id:72Name:Dominican Republic
+Id:73Name:Ecuador
+Id:74Name:Egypt
+Id:75Name:El Salvador
+Id:76Name:Equatorial Guinea
+Id:77Name:Eritrea
+Id:78Name:Estonia
+Id:79Name:Eswatini
+Id:80Name:Ethiopia
+Id:81Name:Fiji
+Id:82Name:Gabon
+Id:83Name:Gambia
+Id:84Name:Georgia
+Id:85Name:Ghana
+Id:86Name:Greece
+Id:87Name:Grenada
+Id:88Name:Guatemala
+Id:89Name:Guinea
+Id:90Name:Guinea-Bissau
+Id:91Name:Guyana
+Id:92Name:Haiti
+Id:93Name:Holy See
+Id:94Name:Honduras
+Id:95Name:Hungary
+Id:96Name:Indonesia
+Id:97Name:Iran
+Id:98Name:Iraq
+Id:99Name:Israel
+Id:100Name:Jamaica
+Id:101Name:Jordan
+Id:102Name:Kazakhstan
+Id:103Name:Kenya
+Id:104Name:Korea, South
+Id:105Name:Kosovo
+Id:106Name:Kuwait
+Id:107Name:Kyrgyzstan
+Id:108Name:Laos
+Id:109Name:Latvia
+Id:110Name:Lebanon
+Id:111Name:Lesotho
+Id:112Name:Liberia
+Id:113Name:Libya
+Id:114Name:Liechtenstein
+Id:115Name:Lithuania
+Id:116Name:Luxembourg
+Id:117Name:MS Zaandam
+Id:118Name:Madagascar
+Id:119Name:Malawi
+Id:120Name:Malaysia
+Id:121Name:Maldives
+Id:122Name:Mali
+Id:123Name:Malta
+Id:124Name:Mauritania
+Id:125Name:Mauritius
+Id:126Name:Moldova
+Id:127Name:Monaco
+Id:128Name:Mongolia
+Id:129Name:Montenegro
+Id:130Name:Morocco
+Id:131Name:Mozambique
+Id:132Name:Namibia
+Id:133Name:Nepal
+Id:134Name:New Zealand
+Id:135Name:Nicaragua
+Id:136Name:Niger
+Id:137Name:Nigeria
+Id:138Name:North Macedonia
+Id:139Name:Oman
+Id:140Name:Panama
+Id:141Name:Papua New Guinea
+Id:142Name:Paraguay
+Id:143Name:Philippines
+Id:144Name:Poland
+Id:145Name:Portugal
+Id:146Name:Qatar
+Id:147Name:Romania
+Id:148Name:Rwanda
+Id:149Name:Saint Kitts and Nevis
+Id:150Name:Saint Lucia
+Id:151Name:Saint Vincent and the Grenadines
+Id:152Name:San Marino
+Id:153Name:Sao Tome and Principe
+Id:154Name:Saudi Arabia
+Id:155Name:Senegal
+Id:156Name:Serbia
+Id:157Name:Seychelles
+Id:158Name:Sierra Leone
+Id:159Name:Singapore
+Id:160Name:Slovakia
+Id:161Name:Slovenia
+Id:162Name:Somalia
+Id:163Name:South Africa
+Id:164Name:South Sudan
+Id:165Name:Sri Lanka
+Id:166Name:Sudan
+Id:167Name:Suriname
+Id:168Name:Syria
+Id:169Name:Taiwan*
+Id:170Name:Tajikistan
+Id:171Name:Tanzania
+Id:172Name:Thailand
+Id:173Name:Timor-Leste
+Id:174Name:Togo
+Id:175Name:Trinidad and Tobago
+Id:176Name:Tunisia
+Id:177Name:Turkey
+Id:178Name:Uganda
+Id:179Name:United Arab Emirates
+Id:180Name:Uruguay
+Id:181Name:Uzbekistan
+Id:182Name:Venezuela
+Id:183Name:Vietnam
+Id:184Name:West Bank and Gaza
+Id:185Name:Western Sahara
+Id:186Name:Yemen
+Id:187Name:Zambia
+Id:188Name:Zimbabwe
